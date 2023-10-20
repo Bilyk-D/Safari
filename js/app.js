@@ -5205,7 +5205,7 @@
             }));
             clearButton.classList.remove("_active");
         }
-        window["FLS"] = true;
+        window["FLS"] = false;
         isWebp();
         menuInit();
         spollers();
